@@ -2,9 +2,7 @@
 
 This is from an undergrad ML course assignment. Instructions:
 
-> Two files, “train.csv” and “test.csv” are provided. Please put down the following information after training:
-w0 =
-w1 =
+> Two files, “train.csv” and “test.csv” are provided. Please put down the following information after training:<br/>w0 =<br/>w1 =
 
 > A file, “housing_train.csv”  is provided. Once you finish training, please predict for the following house:
 x =
