@@ -2,8 +2,15 @@
 
 This is from an undergrad ML course assignment. Instructions:
 
-> The Jupyter notebook file, LR-Singlefeature-incomplete.ipynb, is provided.
-Please fill in the blanks, where you can find the indications -- “Your code starts from here”.
+> Two files, “train.csv” and “test.csv” are provided. Please put down the following information after training:
+w0 =
+w1 =
+
+> A file, “housing_train.csv”  is provided. Once you finish training, please predict for the following house:
+x =
+hW(x) = 
+
+
 
 ########<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my code between hash lines<br/>
